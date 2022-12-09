@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bagadam Abraham David
 - 👀 I’m interested in Computer Vision, Machine learning, CI/CD, Data Visulaizations
-- 🌱 I’m currently learning ...
 - 📫 How to reach me b.a.david84@gmail.com
 
 <!---
